@@ -25,14 +25,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: proposed-solution
-    attributes:
-      label: Proposed Solution
-      description: How would you implement this feature?
-      placeholder: Suggest a possible approach or idea for implementation.
-    validations:
-      required: true
-  - type: textarea
     id: alternatives
     attributes:
       label: Alternatives

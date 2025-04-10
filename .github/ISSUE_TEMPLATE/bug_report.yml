@@ -31,7 +31,7 @@ body:
       description: What did you expect to happen?
       placeholder: The expected outcome.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: actual-behavior
     attributes:
@@ -39,7 +39,7 @@ body:
       description: What actually happened?
       placeholder: What happened instead?
     validations:
-      required: true
+      required: false
   - type: textarea
     id: environment
     attributes:
@@ -47,7 +47,7 @@ body:
       description: Include OS, version, and any other relevant environment info.
       placeholder: e.g. macOS 14.1, cedardb version
     validations:
-      required: true
+      required: false
   - type: textarea
     id: additional-context
     attributes:
