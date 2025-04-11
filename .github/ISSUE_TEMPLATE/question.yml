@@ -2,6 +2,7 @@ name: Question
 description: Ask a question or request clarification.
 title: "[Question]: "
 labels: ["question"]
+type: "Question"
 assignees: []
 body:
   - type: markdown

@@ -2,6 +2,7 @@ name: Compatibility Request
 description: Suggest a new feature or bug regarding PostgreSQL compatibility (e.g., pg-specific functions or tables).
 title: "[Compatibility]: "
 labels: ["compatibility"]
+type: "Compatibility"
 assignees: []
 body:
   - type: markdown
