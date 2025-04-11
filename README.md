@@ -19,20 +19,20 @@ This repository serves as a centralized place to:
 1. **Search existing issues** to avoid duplicates.
 2. If your issue hasn’t been reported:
    - Click on **New Issue**
-   - Select the appropriate template (Bug, Feature Request, etc.)
+   - Select the appropriate template (Bug, Compatibility Issue, Feature Request, etc.)
    - Provide as much detail as possible
 
 3. Use comments and reactions to participate in discussions.
 
 
-## Labels and Workflow
+## Types and Workflow
 
-We use GitHub labels to help organize issues:
+We use GitHub types (and also labels) to help organize issues:
 
 - `bug` – Something isn't working
-- `enhancement` – Feature request or improvement
+- `compatibility` – Missing compatibility features or bugs
+- `feature` – Feature request or improvement
 - `question` – Open-ended discussion or clarification
-- `fixed` – Completed
 
 
 ## Questions?
