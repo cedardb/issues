@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: "CedarDB Docs"
+    about: "Get infos on how to run CedarDB and details to our features."
+    url: "https://cedardb.com/docs/"
